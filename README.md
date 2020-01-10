@@ -1,7 +1,7 @@
 # Lidar(Autonomus Vehicles)DeepLearning.
 Lidar(Light Detection and Ranging) technology for self driving car and other 3D data Visualization using LIDAR.
 # pykitti
-![KITTI](pykitti.png)
+![KITTI](https://github.com/singh728om/Lidar_DeepLearning/blob/master/pykitti-master/pykitti.png)
 
 This package provides a minimal set of tools for working with the KITTI dataset [[1]](#references) in Python. So far only the raw datasets and odometry benchmark datasets are supported, but we're working on adding support for the others. We welcome contributions from the community.
 
